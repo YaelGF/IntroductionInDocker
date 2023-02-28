@@ -34,7 +34,7 @@ php -S 0.0.0.0:8080
 ![docker](/assets/docker.png)
 
 ## Ubuntu
-![ubuntu](/assets/ubuntu.png)
+![ubuntu](/assets/Ubuntu.png)
 
 
 # License
